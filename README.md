@@ -1,4 +1,4 @@
-# Admission-Predictor-with-Linear-Regression
+# Admission-Predictor-Heroku-Deployment
 
 ### This Project has been sucessfully deployed in Heroku Cloud Platform:
 
